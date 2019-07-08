@@ -1,0 +1,5 @@
+[2019-07-07 14:58:15] tasks_logger.INFO: Request GET: /php-mvc-tasks/  
+[2019-07-07 14:59:00] tasks_logger.INFO: Request POST: /php-mvc-tasks/  
+[2019-07-07 14:59:00] tasks_logger.INFO: Post Data: task => Tarea de prueba!  
+[2019-07-07 14:59:00] tasks_logger.INFO: Post Data: action => create  
+[2019-07-07 14:59:00] tasks_logger.INFO: Task: Creada en 07-07-2019 14:59:00 DESC: "Tarea de prueba!" STATUS: Pending  
